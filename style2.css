@@ -1,0 +1,63 @@
+body{
+    background-color: black;
+}
+.topo {
+    width: 100%;
+    height: 100vh;
+    background-image: url(img/TOPOFUNDO.png);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.conteiner{
+    width: 90%;
+    margin: 0 auto;
+    padding: 20px;
+}
+table{
+    border-collapse: collapse;
+}
+th{
+    text-align: center;
+    color: aliceblue;
+    background-color: black;
+}
+tr,td{
+    border: 3px solid rgb(255, 255, 255);
+    text-align: center;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(252, 247, 247);
+}
+#zelda{
+    background-color: rgb(103, 177, 152);
+}
+#spiderman{
+    background-color: rgb(252, 105, 105);
+}
+#hogwarts{
+    background-color: rgb(68, 104, 73);
+}
+#avatar{
+    background-color: rgb(107, 163, 163);
+}
+#mortalkombat{
+    background-color: rgb(179, 164, 99);
+}
+#street{
+    background-color: rgb(87, 75, 151);
+}
+#mario{
+    background-color: rgb(255, 1, 1);
+}
+#starswars{
+    background-color: rgb(122, 126, 126);
+}
+#residentevil{
+    background-color: black;
+}
+#cod{
+    background-color: rgb(143, 1, 37);
+}
